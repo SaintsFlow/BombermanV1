@@ -1,5 +1,5 @@
 import pygame
-PYTHON_EXECUTABLE = "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
+PYTHON_EXECUTABLE = "python"
 WIDTH = 600
 HEIGHT = 600
 W = 13
